@@ -1,0 +1,27 @@
+.page__container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1280px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 400;
+  color: #fff;
+  background-color: #2a2c2f;
+  overflow: hidden;
+  text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 1024px) {
+  .page__container {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page__container {
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page__container {
+  }
+}
