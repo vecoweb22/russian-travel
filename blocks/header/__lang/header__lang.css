@@ -9,12 +9,6 @@
 
 @media screen and (max-width: 425px) {
   .header__lang {
-    margin: 0 0 5px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .header__lang {
     margin: 0 0 4px;
   }
 }

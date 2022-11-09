@@ -11,11 +11,13 @@
 * Методология БЭМ;
 * Файловая структура в соответствии с Nested БЭМ;
 
-### Ссылки на Проект и Макет в Figma:
-- [Проект](https://github.com/vecoweb22/russian-travel);
-- [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+### Ссылки на Макет проекта в Figma:
+* [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
 ### В дальнейшем:
 - Проект будет доработан и оптимизирован с использованием языка программирования JavaScript.
 
-**[До встречи!](https://github.com/vecoweb22?tab=repositories)**
+### Ссылка на github учебного проекта сайта:
+* [Проект: Путешествие по России](https://github.com/vecoweb22/russian-travel)
+
+

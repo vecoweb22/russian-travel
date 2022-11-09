@@ -5,11 +5,11 @@
   line-height: 12px;
   letter-spacing: 2px;
   color: #aaa;
-  padding-bottom: 11px;
+  padding-bottom: 12px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 709px) {
   .place__url-heading {
-    padding-bottom: 12px;
+    margin-left: 16px;
   }
 }

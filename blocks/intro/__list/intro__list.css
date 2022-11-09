@@ -6,19 +6,3 @@
   line-height: 150%;
   list-style-type: none;
 }
-
-@media screen and (max-width: 425px) {
-  .intro__title {
-    font-size: 48px;
-    font-weight: 900;
-    line-height: 110%;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .intro__title {
-    font-size: 32px;
-    font-weight: 900;
-    line-height: 109%;
-  }
-}
